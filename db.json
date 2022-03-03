@@ -2,10 +2,18 @@
 "users":[
     {
       "id":"76056590",      
-      "placa":"ACB-322",
       "name":"Henry",
       "lastname":"Vásquez Yanahuillca",
-      "number":"910480720"
+      "number":"910480720",
+        "vehicle":[
+            {
+            "id":1,
+            "brand":"Toyata",
+            "placa":"ACB-322",
+             "model":"rav",
+             "year":2020
+            }
+        ]
     }
 ]
 }
